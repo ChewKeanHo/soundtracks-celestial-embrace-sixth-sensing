@@ -1,19 +1,19 @@
 TITLE
-🎧 | [MUSIC TITLE HERE]
+🎧 | Celestial Embrace - Sixth Sensing
 
 
 
 
 DESCRIPTION
-[DESCRIPTION HERE THAT CAN BE POSTED ON SOCIAL MEDIA]
+Let's go ahead and explore further with this vocal chillwave. Here is the 6th retries.
 
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #chillwave #chillout #femalevocal
 
 
 § COLLECTIONS
 ━━━━━━━━━━━━
-Album Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
-Genre Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
+Album Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAjWqtY50lbrUhAs7ZCnymX1
+Genre Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAi6ksvBnEv6YIMeGpKIGRsf
 
 
 § METADATA
@@ -21,7 +21,7 @@ Genre Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
 Music made in: https://www.udio.com/
 Project by: (Holloway) Chew, Kean Ho
 Music License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
-Repository: [REPOSITORY_HERE]
+Repository: https://github.com/ChewKeanHo/soundtracks-celestial-embrace-sixth-sensing
 
 
 § FAQ
@@ -64,4 +64,4 @@ I just see A.I. is the next step forward and I want it to augment me; not resist
 
 
 TAGS
-electronicmusic, soundtrack
+electronicmusic, soundtrack, chillwave, ambient, female vocalist, bittersweet, electric, mellow, lush, chillout, atmospheric, instrumental, love, soothing, calm, relax

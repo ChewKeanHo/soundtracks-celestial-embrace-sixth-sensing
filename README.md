@@ -1,19 +1,25 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Celestial Embrace - Sixth Sensing | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Let's go ahead and explore further with this vocal chillwave. Here is the
+6th retries.
 
 ```
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #chillwave #chillout #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/06_Celestial-Embrace-Sixth-Sensing.mp3
+  Size: 5953536         Blocks: 11632      IO Block: 4096   regular file
+Access: 2025-11-03 17:05:18.017526993 +0800
+Modify: 2025-11-03 17:05:18.277528261 +0800
+Change: 2025-11-03 17:05:18.281528280 +0800
+ Birth: 2025-07-20 11:53:33.846221347 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-05-10
+On YouTube since : 2025-08-31
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=42RQjFMzvDI)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +52,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Celestial Embrace - Sixth Sensing
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-celestial-embrace-sixth-sensing
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
